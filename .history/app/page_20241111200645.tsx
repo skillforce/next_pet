@@ -35,7 +35,6 @@ export default function Page() {
         <Image 
         src="/hero-desktop.png" 
         className='hidden md:block' 
-        priority={true}
         alt="Screenshots of the dashboard project showing desktop version" 
         width={1000}
         height={760} 
